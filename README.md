@@ -1,2 +1,2 @@
 # Python-coursera-project
- stock project
+Analyzing Historical Stock/Revenue Data and Building a Dashboard
